@@ -5,6 +5,7 @@ package com.leonhom.leetcode.common.utils;
  * @date: 2022/05/08
  */
 public class CommonUtil {
+    
     /**
      * 打印int数组
      *

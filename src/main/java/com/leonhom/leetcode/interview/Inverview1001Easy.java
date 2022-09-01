@@ -1,6 +1,6 @@
 package com.leonhom.leetcode.interview;
 
-import com.leonhom.common.utils.CommonUtil;
+import com.leonhom.leetcode.common.utils.CommonUtil;
 import org.junit.Test;
 
 /**

@@ -1,6 +1,6 @@
 package com.leonhom.leetcode.sort;
 
-import com.leonhom.common.utils.CommonUtil;
+import com.leonhom.leetcode.common.utils.CommonUtil;
 import org.junit.Test;
 
 import java.util.ArrayList;

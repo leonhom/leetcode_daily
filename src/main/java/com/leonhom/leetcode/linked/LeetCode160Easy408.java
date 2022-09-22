@@ -18,10 +18,11 @@ import java.util.Map;
  * 在 A 中，相交节点前有 2 个节点；在 B 中，相交节点前有 3 个节点。
  * — 请注意相交节点的值不为 1，因为在链表 A 和链表 B 之中值为 1 的节点 (A 中第二个节点和 B 中第三个节点) 是不同的节点。换句话说，它们在内存中指向两个不同的位置，而链表 A 和链表 B 中值为 8 的节点 (A 中第三个节点，B 中第四个节点) 在内存中指向相同的位置。
  *
+ * @408 2012年算法设计原题
  * @author: leon wang
  * @since: 2022/09/13
  */
-public class LeetCode160Easy {
+public class LeetCode160Easy408 {
 
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
 

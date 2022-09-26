@@ -40,10 +40,10 @@ public class OfferII27Easy {
     public boolean isPalindrome(ListNode head) {
 
         List<Integer> array = new ArrayList<>();
-
-        while (head != null) {
-            array.add(head.val);
-            head = head.next;
+        ListNode current = head;
+        while (current != null) {
+            array.add(current.val);
+            current = current.next;
         }
 
         int first = 0, last = array.size() - 1;

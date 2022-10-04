@@ -2,7 +2,6 @@ package com.leonhom.leetcode.linked;
 
 import com.leonhom.leetcode.linked.entity.ListNode;
 import org.junit.Test;
-import sun.jvm.hotspot.ui.table.SortHeaderMouseAdapter;
 
 import java.util.ArrayList;
 import java.util.List;

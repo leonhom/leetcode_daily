@@ -25,7 +25,7 @@ import java.util.Set;
  * @author leon
  * @date 2022/3/18
  */
-public class LeetCode217 {
+public class LeetCode217Easy {
 
     @Test
     public void test() {

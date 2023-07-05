@@ -63,7 +63,7 @@ public class LeetCode1370Easy {
                 }
             }
 
-            for (int i = 25; i > 0; i--) {
+            for (int i = 25; i >= 0; i--) {
                 if (number[i] != 0) {
                     resultBuilder.append((char) (i + 'a'));
                     number[i]--;
